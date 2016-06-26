@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quick Connect</string>
+    <string name="share">Share</string>
+    <string name="other_hint">Add a message</string>
+    <string name="report_problem">Send Feedback</string>
+    <string name="email">bmosdev@gmail.com</string>
+</resources>
